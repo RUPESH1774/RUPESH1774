@@ -1,16 +1,143 @@
-## Hi there 👋
+# 👋 Hi, I'm Rupesh Sharma
 
-<!--
-**RUPESH1774/RUPESH1774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack MERN Developer | React.js | Node.js | Express.js | MongoDB | JavaScript
 
-Here are some ideas to get you started:
+I'm a passionate **Full Stack Developer** who enjoys building scalable, responsive, and user-friendly web applications from frontend to backend. I specialize in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and love transforming ideas into high-quality digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe in writing clean, maintainable, and reusable code while continuously learning modern technologies and best development practices. My focus is on creating applications that provide excellent user experiences, strong performance, and secure backend architecture.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack MERN Developer
+- ⚛️ Frontend Development with React.js
+- 🖥️ Backend Development using Node.js & Express.js
+- 🗄️ MongoDB Database Design & Integration
+- 🔗 REST API Development & Integration
+- 🔐 Authentication & Authorization (JWT)
+- 📱 Responsive & Mobile-First UI Design
+- 🎨 Modern UI Development with Tailwind CSS, Bootstrap & Material UI
+- 🔄 State Management using Redux Toolkit
+- 🌐 Git & GitHub Version Control
+- 🛠️ API Testing with Postman
+- 🚀 Passionate about Performance Optimization & Clean Architecture
+- 📚 Continuous Learner & Open Source Enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- Material UI
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+- Vite
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+🏠 Real Estate Platform
+- Advanced property filters
+- Favorites system
+- Responsive UI
+- REST API Integration
+
+🎓 Student Management System
+- CRUD Operations
+- Search & Pagination
+- Local Storage
+- Responsive Dashboard
+
+🛒 E-Commerce Website
+- Authentication
+- Product Management
+- Shopping Cart
+- Order Management
+
+📊 Admin Dashboard
+- Charts & Analytics
+- User Management
+- Role-Based Access
+- API Integration
+
+---
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+- Docker
+- AWS Cloud
+- System Design
+- Microservices
+
+---
+
+## 🎯 2026 Goals
+
+- Become an Expert MERN Stack Developer
+- Master Data Structures & Algorithms
+- Build Enterprise-Level Full Stack Applications
+- Contribute to Open Source Projects
+- Learn Cloud Technologies (AWS)
+- Build Production-Ready Applications
+- Keep Learning Every Day
+
+---
+
+## 📈 GitHub Focus
+
+✔️ Full Stack Projects
+
+✔️ React Applications
+
+✔️ REST APIs
+
+✔️ JavaScript Practice
+
+✔️ UI/UX Development
+
+✔️ Open Source Contributions
+
+✔️ Clean Code
+
+✔️ Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: rupeshsharma1774@gmail.com
+
+💻 GitHub: https://github.com/RUPESH1774
+
+💼 LinkedIn: https://www.linkedin.com/in/rupeshsharma777/
+
+---
+
+> **"Code. Learn. Build. Improve. Repeat." 🚀**
