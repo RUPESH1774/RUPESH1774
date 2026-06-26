@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Rupesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text= Hi 👋,%20 I'm Rupesh Sharma%20 &fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1>Hi 👋, I'm Rupesh Sharma</h1>
+<!-- <h1>Hi 👋, I'm Rupesh Sharma</h1> -->
 
 <h3>
 🚀 Full Stack MERN Developer • React.js • Node.js • Express.js • MongoDB
