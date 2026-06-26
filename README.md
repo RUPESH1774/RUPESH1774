@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Rupesh Sharma
+<h1 align="center">Hi 👋, I'm Rupesh Sharma</h1>
 
-### 🚀 Full Stack MERN Developer | React.js | Node.js | Express.js | MongoDB | JavaScript
+<h3 align="center">
+Full Stack MERN Developer
+</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&width=700&lines=Full+Stack+Developer;React.js;Node.js;MongoDB;Always+Learning" />
+</p>
 I'm a passionate **Full Stack Developer** who enjoys building scalable, responsive, and user-friendly web applications from frontend to backend. I specialize in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and love transforming ideas into high-quality digital products.
 
 💡 I believe in writing clean, maintainable, and reusable code while continuously learning modern technologies and best development practices. My focus is on creating applications that provide excellent user experiences, strong performance, and secure backend architecture.
