@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rupesh Sharma</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack MERN Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Rupesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<h1>Hi 👋, I'm Rupesh Sharma</h1>
+
+<h3>
+🚀 Full Stack MERN Developer • React.js • Node.js • Express.js • MongoDB
 </h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Passionate+About+Clean+Code;Always+Learning+New+Technologies;Open+Source+Enthusiast;Let's+Build+Something+Amazing!"/>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&width=700&lines=Full+Stack+Developer;React.js;Node.js;MongoDB;Always+Learning" />
