@@ -6,9 +6,9 @@
 />
 <!-- <h1>Hi 👋, I'm Rupesh Sharma</h1> -->
 
-<h3>
+<!-- <h3>
 🚀 Full Stack MERN Developer • React.js • Node.js • Express.js • MongoDB
-</h3>
+</h3> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Passionate+About+Clean+Code;Always+Learning+New+Technologies;Open+Source+Enthusiast;Let's+Build+Something+Amazing!"/>
 
